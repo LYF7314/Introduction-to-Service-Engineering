@@ -1,2 +1,2 @@
-# Introduction-to-Service-Engineering
-2023春软件服务工程导论课程内容整理
+# Things You May Want Know
+  This GitHub repository is used to organize the technologies or skills that I have learned or want to learn during my university and daily life, such as a new language, a sport, a book review, or a front-end framework. Perhaps one day I will use it to record my experiences in love (if any). If you want to add content, please make sure to be friendly and not to disrupt the structure of the document (if any).
